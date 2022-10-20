@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_"
+    app:startDestination="@id/anasayfaFragment">
+
+    <fragment
+        android:id="@+id/anasayfaFragment"
+        android:name="com.ahmet.mkolay.ui.AnasayfaFragment"
+        android:label="fragment_anasayfa"
+        tools:layout="@layout/fragment_anasayfa" />
+    <fragment
+        android:id="@+id/MKolayyFragment"
+        android:name="com.ahmet.mkolay.ui.MKolayyFragment"
+        android:label="fragment_m_kolayy"
+        tools:layout="@layout/fragment_m_kolayy" />
+    <fragment
+        android:id="@+id/migroskopFragment"
+        android:name="com.ahmet.mkolay.ui.MigroskopFragment"
+        android:label="fragment_migroskop"
+        tools:layout="@layout/fragment_migroskop" />
+    <fragment
+        android:id="@+id/migrostvFragment"
+        android:name="com.ahmet.mkolay.ui.MigrostvFragment"
+        android:label="fragment_migrostv"
+        tools:layout="@layout/fragment_migrostv" />
+    <fragment
+        android:id="@+id/profilFragment"
+        android:name="com.ahmet.mkolay.ui.ProfilFragment"
+        android:label="fragment_profil"
+        tools:layout="@layout/fragment_profil" />
+</navigation>

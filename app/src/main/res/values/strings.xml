@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MKolay</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mkolay_ma_aza_ile_r_nlerinizi_kolayca_okutun">Mkolay Mağaza ile ürünlerinizi kolayca okutun, JetKasa ile ödeyin</string>
+    <string name="lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+
+</resources>

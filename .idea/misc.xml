@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/MKolay/app/src/main/res/drawable-v24/bottom_nav_icon_color.xml" value="0.187" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/MKolay/app/src/main/res/drawable/ikonhome.xml" value="0.187" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/MKolay/app/src/main/res/layout/activity_main.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/MKolay/app/src/main/res/layout/activity_qr.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/MKolay/app/src/main/res/layout/fragment_anasayfa.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/MKolay/app/src/main/res/layout/fragment_m_kolayy.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/LENOVO/AndroidStudioProjects/MKolay/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LENOVO/Documents/GitHub/mKolay/app/src/main/res/drawable-v24/ic_back.xml" value="0.1925" />
+        <entry key="..\:/Users/LENOVO/Documents/GitHub/mKolay/app/src/main/res/drawable/border_line.xml" value="0.1945" />
+        <entry key="..\:/Users/LENOVO/Documents/GitHub/mKolay/app/src/main/res/drawable/border_line2.xml" value="0.1945" />
+        <entry key="..\:/Users/LENOVO/Documents/GitHub/mKolay/app/src/main/res/drawable/ic_alisveris_gecmis.xml" value="0.1945" />
+        <entry key="..\:/Users/LENOVO/Documents/GitHub/mKolay/app/src/main/res/drawable/ic_card.xml" value="0.1945" />
+        <entry key="..\:/Users/LENOVO/Documents/GitHub/mKolay/app/src/main/res/drawable/ic_ileri.xml" value="0.1925" />
+        <entry key="..\:/Users/LENOVO/Documents/GitHub/mKolay/app/src/main/res/drawable/ic_ileri2.xml" value="0.1925" />
+        <entry key="..\:/Users/LENOVO/Documents/GitHub/mKolay/app/src/main/res/drawable/ic_sag.xml" value="0.1945" />
+        <entry key="..\:/Users/LENOVO/Documents/GitHub/mKolay/app/src/main/res/layout/activity_alisveris.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LENOVO/Documents/GitHub/mKolay/app/src/main/res/layout/activity_alisveris_gecmis.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LENOVO/Documents/GitHub/mKolay/app/src/main/res/layout/activity_card.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/LENOVO/Documents/GitHub/mKolay/app/src/main/res/layout/activity_qr.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/Documents/GitHub/mKolay/app/src/main/res/layout/activity_sepet.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVO/Documents/GitHub/mKolay/app/src/main/res/layout/fragment_m_kolayy.xml" value="0.15353260869565216" />
+        <entry key="..\:/Users/LENOVO/Documents/GitHub/mKolay/app/src/main/res/layout/row_sepet.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

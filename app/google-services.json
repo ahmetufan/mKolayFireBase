@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "870471600320",
+    "firebase_url": "https://mkolay-3543e-default-rtdb.firebaseio.com",
+    "project_id": "mkolay-3543e",
+    "storage_bucket": "mkolay-3543e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870471600320:android:b5aef48e7e123590e90525",
+        "android_client_info": {
+          "package_name": "com.ahmet.mkolay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870471600320-1hhjgm4g2tk03m4gdn1le44pr97t7mbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr3ROXtQ4fToifkR7T9qglaeEerP_r3U0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870471600320-1hhjgm4g2tk03m4gdn1le44pr97t7mbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

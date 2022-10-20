@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/anasayfaFragment"
+        android:icon="@drawable/ikonhome"
+        android:title="Anasayfa" />
+
+    <item
+        android:id="@+id/migroskopFragment"
+        android:icon="@drawable/ikonmigroskop"
+        android:title="Migroskop" />
+    <item
+        android:id="@+id/MKolayyFragment"
+        android:icon="@drawable/ikonmkolay"
+        android:title="MKolay" />
+
+    <item
+        android:id="@+id/migrostvFragment"
+        android:icon="@drawable/ikonmigrostv"
+        android:title="MigrosTV" />
+
+    <item
+        android:id="@+id/profilFragment"
+        android:icon="@drawable/ikonprofil"
+        android:title="Profil" />
+
+
+</menu>
